@@ -106,6 +106,32 @@ LANG_UI = {
         "mission_btn": "🎯 Genera esempio",
         "mission_placeholder": "Se non sai cosa scrivere, proviamo a tradurre.",
     },
+    "Español": {
+        "api_sidebar": "⚙️ Configuración",
+        "native_lang": "Mi lengua materna (UI)",
+        "target_lang": "Idioma a aprender",
+        "title": "🌐 Tutor de Escritura Políglota",
+        "subtitle": "Análisis de escritura y mejora de nivel mediante IA",
+        "input_label": "Escribe una frase en el idioma que estás aprendiendo:",
+        "analyze_btn": "✨ Analizar y Comentar",
+        "placeholder_prefix": "Ej: ",
+        "feedback_title": "📝 Análisis y Feedback",
+        "level_label": "Dificultad",
+        "vocab_label": "📚 Estudio de vocabulario clave",
+        "levelup_label": "🚀 ¡Sube de nivel! (Level-up)",
+        "synonym_label": "🔗 Sinónimos",
+        "antonym_label": "💡 Antónimos",
+        "point_label": "Escribir al nivel",
+        "corrected_label": "✅ Frase Corregida",
+        "meaning_label": "👉 **Significado:**",
+        "point_title": "💡 Puntos clave",
+        "audio_btn": "🔈 Escuchar pronunciación",
+        "analaizing": "El profesor de IA está analizando la frase...",
+        "mission_label": "Para intentar traducir",
+        "mission_btn": "🎯 Generar ejemplo",
+        "mission_placeholder": "Si no sabes qué escribir, intentemos traducir.",
+    },
+
 }
 
 # gTTS 언어 코드 매핑 (내부 로직용)
